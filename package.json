@@ -1,0 +1,22 @@
+{
+  "name": "rest_api_coders_gyan_yt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.ts"
+  },
+  "keywords": [
+    "restApi",
+    "express"
+  ],
+  "author": "Ayush Sahay",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
